@@ -6,15 +6,24 @@ html{
     background-image: url(NoFound.jpeg);
     background-repeat: no-repeat;
     background-position:  center center;
-    margin-top: 18%;
+    margin-top: 20%;
     background-color:#ad3f40;
 }
 
-p{
+.text{
     font-family: "Daredevil";
     margin-left: 60%;
     color:#ad3f40;
 }
+a:link, a:visited {
+    background-color: black;
+    color: #ad3f40;
+    padding: 8px 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 42px;
+}
 
-
-
+a:hover{
+    color: blueviolet;
+}
