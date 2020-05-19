@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Daredevil";
+    src: url("Daredevil.ttf");
+   }
+html{
+    background-image: url(NoFound.jpeg);
+    background-repeat: no-repeat;
+    background-position:  center center;
+    margin-top: 18%;
+    background-color:#ad3f40;
+}
+
+p{
+    font-family: "Daredevil";
+    margin-left: 60%;
+    color:#ad3f40;
+}
+
+
+
